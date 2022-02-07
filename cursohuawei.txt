@@ -1,0 +1,25 @@
+
+Cursos de Huawei
+
+It contains the following courses：
+
+HCIA-AI Course;  EBGTC00000296
+HCIA-Big Data Course; EBGTC00000246
+HCIA-Cloud Service Course; EBGTC00000338
+HCIP-Cloud Service Solutions Architect Course; EBGTC00000324
+HCIA-Security Course; EBGTC00000312
+HCIA-WLAN Course; EBGTC00000105
+HCIA-Routing & Switching Course Entry training; EBGTC00000030
+HCIA-Routing & Switching Course Intermediate Training; EBGTC00000031
+
+
+
+AI BAsics Overview
+CLoud Basics Development and Basics COncpets
+5G Basics: Introduction to 5G Knowledge
+HICIA-5G V.20 Course
+HICIA Datacom V1.0 Course
+HICA WLAN V3.0
+HCIA AI V3.0
+HCIA Cloud Comptuting V.4
+HCIA-Securiy V3.0 Course
